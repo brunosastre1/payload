@@ -1,0 +1,15 @@
+{
+   "version":1,
+   "correlationId":"abcd",
+   "clientTimeZone":"America/Sao_Paulo",
+   "inputs":{
+      "clienteId":"12345678901",
+      "canal":"_WB",
+      "campanhaId":"1110201",
+      "ofertaId":[
+       "13ED4E041BFB02342FCCF0145BE18EBC"
+      ],
+      "codRetorno": ["A01"],      
+      "passoJornada":"GRAVACAO_RETORNO"
+   }
+}
